@@ -12,6 +12,10 @@
     --terceary:#515256;
 }
 
+body{
+    background-color: var(--terceary);
+}
+
 .contenedor{
     display: -ms-flex;
     display: -webkit-flex;
