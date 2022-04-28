@@ -164,6 +164,9 @@ body{
     color: var(--terceary);
 }
 
+.historial-academico > p:last-child{
+    padding-bottom: 10px;
+}
 
 @media screen and (max-width:980px){
     .contenedor{
